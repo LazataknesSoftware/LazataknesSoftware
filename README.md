@@ -1,36 +1,18 @@
-# Добро пожаловать в _LazataknesSoftware_! 
-Здесь Вы можете загрузить полезные инструменты.
+# Welcome to _LazataknesSoftware_! 
+Here you can download useful programs.
 
-> 1. **Чтобы работать с моими инструментами, необходимо установить [Node.js](https://nodejs.org/en/download).**
-> 2. **Чтобы не засорять [реестр Windows](https://ru.wikipedia.org/wiki/%D0%A0%D0%B5%D0%B5%D1%81%D1%82%D1%80_Windows) [интерпретаторами](https://ru.wikipedia.org/wiki/%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BF%D1%80%D0%B5%D1%82%D0%B0%D1%82%D0%BE%D1%80), можно скачать [portable](https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D1%80%D0%B5%D0%BD%D0%BE%D1%81%D0%B8%D0%BC%D0%BE%D0%B5_%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5)-версию (zip) интерпретатора. Эта версия называется Windows Binary. Скачивайте версию в зависимости от разрядности системы, которая установлена на Вашем компьютере.**
-> 3. **Людям, которые плохо знают, как устроен компьютер и операционная система, будет сложно устанавливать мои инструменты и понимать ответы в разделе "Вопросы, которые могут мне задать".**
-> 4. **Установка некоторых моих инструментов потребует умение работать в командной строке.**
+> 1. **[Node.js](https://nodejs.org/en/download) must be installed to use my programs.**
+> 2. **Use Node.js portable version (Windows Binary, if you are on Windows)  to don't litter Windows Registry. Download version depending on your Windows bit depth.**
+> 3. **People who don't know much about how a computer and operating system works will have a hard time installing my tools..**
+> 4. **Installing some of my tools will require command line skills.**
 
-# Инструменты, которые я разработал:
-* DateNTimeChief **(JS)** - _инструмент для манипуляций с датой и временем_.
-* Centercolor **(HTML)** - _инструмент для смешивания цветов. Полезно для составителей легенд._
-* RGB Tester **(HTML)** - _инструмент для подбора цвета в виде RGB-схемы. Можно получить цвет в виде HEX-схемы._
-
-# Вопросы, которые могут мне задать:
-_Q - вопрос_
-
-_A - ответ_
+# Tools I have developed:
+* DateNTimeChief **(Node.js required)** - _date and time manipulation tool_.
+* Centercolor **(HTML)** - _color mixing tool. Useful for legend writers._
+* RGB Tester **(HTML)** - _a tool for selecting colors in the form of an RGB scheme. You can get the color as a HEX scheme._
 
 
-**Q**: Зачем мне устанавливать Node.js? Где установщики твоих программ?!
+> **User**: "Why should I install Node.js? Where are the installers of your programs?!"
 
-**A**: 1. Сначала прочитайте, что такое [язык программирования](https://ru.wikipedia.org/wiki/%D0%AF%D0%B7%D1%8B%D0%BA_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F), [JavaScript](https://ru.wikipedia.org/wiki/JavaScript) и [Node.js](https://ru.wikipedia.org/wiki/Node.js).
-
-2. Я лично пробовал преобразовать JavaScript-скрипт в исполняемый файл (программу). Результат не обрадовал: было где-то около 60 МБ. Если я разработаю 1000 проектов, то сколько они будут занимать места на диске? Около 60 ГБ?! Какой кошмар!
-   
-   Я решил просить пользователей установить интерпретатор (который весит 82 МБ) и загружать мои инструменты в виде сценариев (с расширением .js). Если я разработаю 1000 проектов, то они займут 4 МБ на диске.
-
-
-**Q**: Открываю твой инструмент - и вижу черное окно без кнопок и полей ввода, но имеющее какой-то текст. Что это?
-
-**A**: Почитайте, что такое [интерфейс командной строки](https://ru.wikipedia.org/wiki/%D0%98%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B9%D1%81_%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D0%BD%D0%BE%D0%B9_%D1%81%D1%82%D1%80%D0%BE%D0%BA%D0%B8).
-
-
-**Q**: Будут ли твои инструменты иметь графический интерфейс? Я устал вводить команды.
-
-**A**: К сожалению, нет, потому что Node.js (Вы уже знаете, что это такое) не имеет хорошей библиотеки для создания графического интерфейса.
+> **LazataknesSoftware**: I personally tried to convert a JavaScript script into an executable file (program). The result was not encouraging: it was somewhere around 60 MB. If I develop 1000 projects, how much disk space will they take up? About 60 GB?! What a nightmare!\
+> I decided to ask users to install an interpreter (which is 82MB) and download my tools as scripts (with a .js extension). If I develop 1000 projects, they will take up 4 MB of disk space.
