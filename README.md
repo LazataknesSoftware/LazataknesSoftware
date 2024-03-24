@@ -1,9 +1,6 @@
 # Welcome to _LazataknesSoftware_! 
 Here you can download useful programs.
 
-# Who am I?
-I am a Java newbie who knew other programming languages ​​(Pascal, JavaScript, HTML5/CSS3, Python, C++, Bash, PowerShell, C#).
-
 # Tools I have developed:
 * [DateNTimeChief](https://github.com/LazataknesSoftware/DateNTimeChief) **(Node.js required)** - _date and time manipulation tool_.
 * [Centercolor](https://github.com/LazataknesSoftware/Centercolor) **(HTML)** - _finding center color of image utility. Useful for legend makers._
