@@ -30,9 +30,9 @@ __Notes:__
 
 # Languages I had experience with (I am not expert at them, really 😆)
 
-|Java|Python|Pascal|C#|VBScript|PowerShell
-|----|------|:------:|--|:--------:|:-:|
-|![Java](https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg)|![Python](https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg)|❓|![C#](https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg)|❓|![PowerShell](https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg)
+|Java|Python|Pascal|C#|VBScript|PowerShell|Golang|
+|----|------|:------:|--|:--------:|:-:|:-:|
+|![Java](https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg)|![Python](https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg)|❓|![C#](https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg)|❓|![PowerShell](https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg)|![Golang](https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg)
 
 # Technologies I don't use
 |Angular.js|React.js|Vue.js|
