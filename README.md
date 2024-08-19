@@ -23,7 +23,7 @@ __Notes:__
 
 # Languages I had experience with 
 
-**WARNING! I am not expert at some languages!**
+**WARNING! I am not professional at some languages!**
 
 |Java|Python|Pascal|C#|VBScript|PowerShell|JavaScript|C
 |:----:|:------:|:------:|--|:--------:|:-:|:-:|:-:
