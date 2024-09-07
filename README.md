@@ -2,7 +2,7 @@
 
 |_Name_|Alexander|
 |:-|:-|
-|_What I do when I have free time?_|In free time I explore Golang and play computer games.|
+|_What I do when I have free time?_|In free time I explore Golang, listen to music and play computer games.|
 |_Who am I?_|I am Golang developer|
 |_Have I profile in social networks?_|No, I haven't.|
 |_OS on my personal laptop_|Windows 10 1607|
@@ -13,9 +13,9 @@
 > ❓ = **Image not found, sorry...**
 
 # Programs I use
-|PuTTY|VSCode|GitHub Desktop|Bash/[Termux](https://github.com/termux/termux-app)|[Windows Batch](https://en.wikipedia.org/wiki/Batch_file) + [Busybox](https://en.wikipedia.org/wiki/BusyBox)|Replit|[Delve](https://github.com/go-delve/delve)|
+|PuTTY|Vim|GitHub Desktop|Bash/[Termux](https://github.com/termux/termux-app)|[Windows Batch](https://en.wikipedia.org/wiki/Batch_file) + [Busybox](https://en.wikipedia.org/wiki/BusyBox)|Replit|[Delve](https://github.com/go-delve/delve)|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:
-|![PuTTY](https://github.com/devicons/devicon/blob/master/icons/putty/putty-original.svg)|![VSCode](https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg)|![GitHub Desktop](https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg)|![Bash](https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg)|❓|![Replit](https://github.com/devicons/devicon/blob/master/icons/replit/replit-original.svg)|❓
+|![PuTTY](https://github.com/devicons/devicon/blob/master/icons/putty/putty-original.svg)|![Vim](https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg)|![GitHub Desktop](https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg)|![Bash](https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg)|❓|![Replit](https://github.com/devicons/devicon/blob/master/icons/replit/replit-original.svg)|❓
 
 __Notes:__
 * I use PuTTY to control Termux on my phone.
