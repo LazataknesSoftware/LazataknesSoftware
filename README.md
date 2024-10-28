@@ -1,8 +1,8 @@
 ----
 
-<CENTER><H1>Hi, I'm Lazataknes! 👋</H1></CENTER>
+<DIV ALIGN="CENTER"><H1>Hi, I'm Lazataknes! 👋</H1></DIV>
 
-<DIV ALIGN="CENTER"><IMAGE SRC="https://raw.githubusercontent.com/LazataknesSoftware/LazataknesSoftware/refs/heads/master/newhello.png" /></DIV><BR><BR>
+<DIV ALIGN="CENTER"><IMAGE SRC="https://github.com/LazataknesSoftware/LazataknesSoftware/blob/main/newhello.png" /></DIV><BR><BR>
 
 ----
 
@@ -12,7 +12,7 @@
     - explore Golang
     - listen to music
     - play computer games
-* 📒 I am learning Golang now.
+* 💻 I am learning Golang now.
 * 💾 I am a very economical developer, I try to use as little disk space as possible.
 ---
 
