@@ -1,44 +1,91 @@
-----
+[Русский](#about-me-ru) | [English](#about-me-en)
 
-<DIV ALIGN="CENTER"><H1>Hi, I'm Lazataknes! 👋</H1></DIV>
-
-<DIV ALIGN="CENTER"><IMAGE SRC="https://github.com/LazataknesSoftware/LazataknesSoftware/blob/main/newhello.png" /></DIV><BR><BR>
-
-----
-
-**Some facts about me**:
-
-* ⏳ When I have free time, I...
-    - explore Golang
-    - listen to music
-    - play computer games
-* 💻 I am learning Golang now.
-* 💾 I am a very economical developer, I try to use as little disk space as possible.
----
-
-> ❓ = **Image not found, sorry...**
-
-# ☑️ Programs I use
-|Windows|PuTTY|Vim|GitHub Desktop|Bash/[Termux](https://github.com/termux/termux-app)|[Windows Batch](https://en.wikipedia.org/wiki/Batch_file) + [Busybox](https://en.wikipedia.org/wiki/BusyBox)|Replit|[Delve](https://github.com/go-delve/delve)|PowerShell
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/windows8/windows8-original.svg" width=64 height=64>|<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/putty/putty-original.svg" width=64 height=64>|<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/vim/vim-original.svg" width=64 height=64>|<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/github/github-original.svg" width=64 height=64>|<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/bash/bash-original.svg" width=64 height=64>|❓|<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/replit/replit-original.svg" width=64 height=64>|❓|<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/powershell/powershell-original.svg" width=64 height=64>|
-
-# ✔️ Languages I had experience with 
-
-**⚠️ WARNING! I am not professional at some languages!**
-
-|Java|Python|Pascal|C#|VBScript|JavaScript|C|Web Technologies|C++
-|:--:|:----:|:----:|:-:|:--------:|:-:|:-:|:-:|:-:|
-|<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/java/java-original.svg" width=64 height=64>|<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/python/python-original.svg" width=64 height=64>|❓|<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/csharp/csharp-original.svg" width=64 height=64>|❓|<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/javascript/javascript-original.svg" width=64 height=64>|<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/c/c-line.svg" width=64 height=64>|<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/html5/html5-original.svg" width=64 height=64>|<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/cplusplus/cplusplus-original.svg" width=64 height=64>
----
-
-![LazataknesSoftware's GitHub stats](https://github-readme-stats.vercel.app/api?username=LazataknesSoftware&hide=prs&show_icons=true&icon_color=2ab427&text_color=2ab427&title_color=2ab427&bg_color=right,CDFFCC,FEFFCC&disable_animations=true&rank_icon=github)
-
----
-
-<div align="center">
- <b>Do you want to use my software? No problems!</b> 🙂 <BR><BR>
- <span>You can go to my pinned software.</span><BR><BR>
+<div align="center" id="about-me-ru">
+<h1>Привет, я Lazataknes!</h1>
+<img src="https://github.com/LazataknesSoftware/LazataknesSoftware/blob/main/newhello.png"><BR>
+<I>Мои программы никогда не будут тяжелыми для ваших компьютеров, не волнуйтесь!</I> 😎
 </div>
 
+## Обо мне
+Я увлекаюсь программированием с 2021 года. Начинал я свой путь с PascalABC.NET, а писал на нем мелкие игры (например, "Угадай число") и что-нибудь нескучное (например, программу, которая по случайным позициям разбрасывает цветные буквы в консоли). В этом же году освоил Python, а затем и HTML5. Потом начал осваивать Java, C# и Go. Сейчас я знаю несколько языков программирования, но пишу в основном на HTML, CSS и JavaScript.
+
+## Принципы разработки
+
+При разработке любой программы я ставлю себе четкие правила:
+1. Она должна занимать как **можно меньше места**.
+2. Она же **должна оставаться простой** в использовании.
+3. Она **не должна засорять диск**, где установлена система.
+
+## Собственно, вот и рабочий набор программ...
+<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/windows8/windows8-original.svg" width=48 height=48>
+<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/powershell/powershell-original.svg" width=48 height=48>
+<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/vscode/vscode-original.svg" width=48 height=48>
+<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/git/git-original.svg" width=48 height=48>*
+
+<BR>
+
+*Git используется в связке с [Lazygit](https://github.com/jesseduffield/lazygit), последним я пользуюсь чаще.
+
+Думаю, понятно, почему я использую так мало программ при разработке.
+
+## Языки, с которыми я работал
+<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/java/java-original.svg" width=48 height=48>
+<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/python/python-original.svg" width=48 height=48>
+<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/csharp/csharp-original.svg" width=48 height=48>*
+<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/dotnetcore/dotnetcore-original.svg" width=48 height=48>
+<img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/go/go-original.svg" width=48 height=48>
+<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/c/c-line.svg" width=48 height=48>
+<img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/nodejs/nodejs-original.svg" width=48 height=48>
+
+<BR>
+
+*Обозначен старый компилятор `csc.exe`, который поставляется вместе с Windows и поддерживает C# 5
+
+## Статистика
+![LazataknesSoftware's GitHub stats](https://github-readme-stats.vercel.app/api?username=LazataknesSoftware&hide=prs&show_icons=true&icon_color=1144d1&text_color=1144d1&title_color=1144d1&bg_color=right,ff5edf,26baf0&disable_animations=true&rank_icon=github)
+
 ---
+
+<div align="center" id="about-me-en">
+<h1>Hi, I'm Lazataknes!</h1>
+<img src="https://github.com/LazataknesSoftware/LazataknesSoftware/blob/main/newhello.png"><BR>
+<I>My programs will never be heavy for your computers, don't worry!</I> 😎
+</div>
+
+## About me
+I've been passionate about programming since 2021. I started with PascalABC.NET, using it to write small games (like "Guess the Number") and other fun things (like a program that randomly scatters colored letters in the console). That same year, I learnt Python, and then HTML5. Then I moved on to Java, C#, and Go. Now I know several programming languages, but I primarily write in HTML, CSS, and JavaScript.
+
+## Principles of development
+
+When developing any program, I set myself clear rules:
+1. It should take up **as little space as possible**.
+2. It should also be **easy to use**.
+3. It **shouldn't clutter the drive** where the system is installed.
+
+## Working set of programs
+<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/windows8/windows8-original.svg" width=48 height=48>
+<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/powershell/powershell-original.svg" width=48 height=48>
+<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/vscode/vscode-original.svg" width=48 height=48>
+<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/git/git-original.svg" width=48 height=48>*
+
+<BR>
+
+*Git is used with [Lazygit](https://github.com/jesseduffield/lazygit), the last is used more often.
+
+I think it's clear why I use so few programs in my development.
+
+## Languages I worked with
+<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/java/java-original.svg" width=48 height=48>
+<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/python/python-original.svg" width=48 height=48>
+<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/csharp/csharp-original.svg" width=48 height=48>*
+<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/dotnetcore/dotnetcore-original.svg" width=48 height=48>
+<img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/go/go-original.svg" width=48 height=48>
+<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/c/c-line.svg" width=48 height=48>
+<img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/nodejs/nodejs-original.svg" width=48 height=48>
+
+<BR>
+
+*This refers to the old `csc.exe` compiler that ships with Windows and supports C# 5.
+
+## Stats
+![LazataknesSoftware's GitHub stats](https://github-readme-stats.vercel.app/api?username=LazataknesSoftware&hide=prs&show_icons=true&icon_color=1144d1&text_color=1144d1&title_color=1144d1&bg_color=right,ff5edf,26baf0&disable_animations=true&rank_icon=github)
