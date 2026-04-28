@@ -16,7 +16,7 @@
 2. Она же **должна оставаться простой** в использовании.
 3. Она **не должна засорять диск**, где установлена система.
 
-## Собственно, вот и рабочий набор программ...
+## Рабочий набор программ
 <p float="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/windows8/windows8-original.svg" width=48 height=48/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/powershell/powershell-original.svg" width=48 height=48/>
