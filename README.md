@@ -17,10 +17,12 @@
 3. Она **не должна засорять диск**, где установлена система.
 
 ## Собственно, вот и рабочий набор программ...
-<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/windows8/windows8-original.svg" width=48 height=48>
-<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/powershell/powershell-original.svg" width=48 height=48>
-<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/vscode/vscode-original.svg" width=48 height=48>
-<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/git/git-original.svg" width=48 height=48>*
+<p float="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/windows8/windows8-original.svg" width=48 height=48/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/powershell/powershell-original.svg" width=48 height=48/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/vscode/vscode-original.svg" width=48 height=48/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/git/git-original.svg" width=48 height=48/>*
+</p>
 
 <BR>
 
@@ -29,13 +31,15 @@
 Думаю, понятно, почему я использую так мало программ при разработке.
 
 ## Языки, с которыми я работал
-<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/java/java-original.svg" width=48 height=48>
-<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/python/python-original.svg" width=48 height=48>
-<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/csharp/csharp-original.svg" width=48 height=48>*
-<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/dotnetcore/dotnetcore-original.svg" width=48 height=48>
-<img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/go/go-original.svg" width=48 height=48>
-<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/c/c-line.svg" width=48 height=48>
-<img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/nodejs/nodejs-original.svg" width=48 height=48>
+<p float="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/java/java-original.svg" width=48 height=48/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/python/python-original.svg" width=48 height=48/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/csharp/csharp-original.svg" width=48 height=48/>*
+<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/dotnetcore/dotnetcore-original.svg" width=48 height=48/>
+<img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/go/go-original.svg" width=48 height=48/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/c/c-line.svg" width=48 height=48/>
+<img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/nodejs/nodejs-original.svg" width=48 height=48/>
+</p>
 
 <BR>
 
@@ -63,10 +67,12 @@ When developing any program, I set myself clear rules:
 3. It **shouldn't clutter the drive** where the system is installed.
 
 ## Working set of programs
-<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/windows8/windows8-original.svg" width=48 height=48>
-<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/powershell/powershell-original.svg" width=48 height=48>
-<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/vscode/vscode-original.svg" width=48 height=48>
-<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/git/git-original.svg" width=48 height=48>*
+<p float="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/windows8/windows8-original.svg" width=48 height=48/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/powershell/powershell-original.svg" width=48 height=48/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/vscode/vscode-original.svg" width=48 height=48/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/git/git-original.svg" width=48 height=48/>*
+</p>
 
 <BR>
 
@@ -75,13 +81,15 @@ When developing any program, I set myself clear rules:
 I think it's clear why I use so few programs in my development.
 
 ## Languages I worked with
-<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/java/java-original.svg" width=48 height=48>
-<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/python/python-original.svg" width=48 height=48>
-<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/csharp/csharp-original.svg" width=48 height=48>*
-<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/dotnetcore/dotnetcore-original.svg" width=48 height=48>
-<img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/go/go-original.svg" width=48 height=48>
-<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/c/c-line.svg" width=48 height=48>
-<img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/nodejs/nodejs-original.svg" width=48 height=48>
+<p float="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/java/java-original.svg" width=48 height=48/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/python/python-original.svg" width=48 height=48/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/csharp/csharp-original.svg" width=48 height=48/>*
+<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/dotnetcore/dotnetcore-original.svg" width=48 height=48/>
+<img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/go/go-original.svg" width=48 height=48/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/c/c-line.svg" width=48 height=48/>
+<img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/nodejs/nodejs-original.svg" width=48 height=48/>
+</p>
 
 <BR>
 
